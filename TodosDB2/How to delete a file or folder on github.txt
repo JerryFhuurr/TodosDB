@@ -1,0 +1,7 @@
+﻿# In Visual Studio, click '...' icon in git page and select open in terminal.
+Enter: git pull origin master    (To pull all the files from git)
+Enter: dir   (Check the path of file you want to delete)
+Enter: git rm -r --cached xxxxx   (xxxxx is the name of file or folder you want to delete)
+Enter: git commit -m 'xxxxx'   (xxxx is the contents of commit)
+Enter: git push -u origin master  (push the change)
+Done
